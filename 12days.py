@@ -10,14 +10,14 @@ day = {
         9:{ "order": "9th", "qty": "nine","item" : "noffles waffling" },
         10:{ "order": "10th", "qty": "ten", "item" : "leezs a-larping" },
         11:{ "order": "11th", "qty": "eleven", "item" : "sbots serving" },
-        12:{ "order": "12th", "qty": "twelve", "item" : "differen ssb clients" }
+        12:{ "order": "12th", "qty": "twelve", "item" : "different ssb clients" }
 }
 
 print "On the %s day of SSB, my true pub gave to me" % (day[1]["order"]) 
 print "%s %s." % (day[1]["qty"], day[1]["item"])
 print "\n"
 
-for i in range(2, len(day)):
+for i in range(2, len(day)+1):
     print "On the %s day of SSB, my true pub gave to me" % (day[i]["order"]) 
     for j in range(i, 1, -1):   
         print "%s %s, " % ( day[j]["qty"], day[j]["item"])
