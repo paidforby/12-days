@@ -7,7 +7,7 @@ day = {
         6:{ "order": "6th", "qty": "six", "item" : "bananas a-tuning" },
         7:{ "order": "7th", "qty": "seven", "item" : "cels a-singing" },
         8:{ "order": "8th", "qty": "eight","item" : "mixs a-mixing" },
-        9:{ "order": "9th", "qty": "nine","item" : "noffles noffling" },
+        9:{ "order": "9th", "qty": "nine","item" : "noffles waffling" },
         10:{ "order": "10th", "qty": "ten", "item" : "leezs a-larping" },
         11:{ "order": "11th", "qty": "eleven", "item" : "sbots serving" },
         12:{ "order": "12th", "qty": "twelve", "item" : "differen ssb clients" }
